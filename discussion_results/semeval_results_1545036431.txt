@@ -42,6 +42,3 @@ P = 1909/2361 =  80.86%     R = 1909/2263 =  84.36%     F1 =  82.57%
 MACRO-averaged result (excluding Other):
 P =  80.14%     R =  83.54%     F1 =  81.78%
 
-
-
-
