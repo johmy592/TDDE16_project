@@ -1,0 +1,674 @@
+####### ENTITIES SAME SIDE OF TREE ##############
+2
+"Most <e1>definitions</e1> of <e2>car</e2> say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods."
+
+Member-Collection(e2,e1)
+------------------------
+
+4
+"The year 1886 is regarded as the birth year of the modern car when <e1>German</e1> inventor <e2>Karl Benz</e2> patented his Benz Patent - Motorwagen."
+
+Product-Producer(e2,e1)
+------------------------
+
+6
+"One of the first cars that were accessible to the masses was the 1908 <e1>Model T</e1>, an <e2>American</e2> car manufactured by the Ford Motor Company."
+
+Product-Producer(e1,e2)
+------------------------
+
+7
+"Cars were rapidly adopted in the <e1>US</e1>, where they replaced animal - drawn carriages and carts, but took much longer to be accepted in <e2>Western Europe</e2> and other parts of the world."
+
+Other
+------------------------
+
+11
+"Most <e1>cars</e1> in <e2>use</e2> in the 2010s are propelled by an internal combustion engine, fueled by the combustion of fossil fuels."
+
+Component-Whole(e2,e1)
+------------------------
+
+13
+" <e1>Vehicles</e1> using alternative <e2>fuels</e2> such as ethanol flexible - fuel vehicles and natural gas vehicles are also gaining popularity in some countries."
+
+Instrument-Agency(e2,e1)
+------------------------
+
+14
+"Electric <e1>cars</e1>, which were invented early in the <e2>history</e2> of the car, began to become commercially available in 2008."
+
+Other
+------------------------
+
+15
+"nThere are <e1>costs</e1> and <e2>benefits</e2> to car use."
+
+Other
+------------------------
+
+17
+"The <e1>costs</e1> to <e2>society</e2> include maintaining roads, land use, road congestion, air pollution, public health, health care, and disposing of the vehicle at the end of its life."
+
+Entity-Destination(e1,e2)
+------------------------
+
+21
+"The <e1>ability</e1> for <e2>people</e2> to move flexibly from place to place has far - reaching implications for the nature of societies."
+
+Other
+------------------------
+
+22
+"It was estimated in 2014 that the <e1>number</e1> of <e2>cars</e2> was over 1."
+
+Component-Whole(e2,e1)
+------------------------
+
+23
+"The numbers are increasing rapidly, especially in <e1>China</e1>, <e2>India</e2> and other newly industrialized countries."
+
+Member-Collection(e2,e1)
+------------------------
+
+25
+"In turn, these originated from the <e1>Gaulish</e1> word karros ( a <e2>Gallic</e2> chariot )."
+
+Instrument-Agency(e2,e1)
+------------------------
+
+26
+"It originally referred to any wheeled <e1>horse</e1> - drawn <e2>vehicle</e2>, such as a cart, carriage, or wagon."
+
+Component-Whole(e2,e1)
+------------------------
+
+30
+"It entered the <e1>English</e1> language from <e2>French</e2>, and was first adopted by the Automobile Club of Great Britain in 1897."
+
+Entity-Origin(e1,e2)
+------------------------
+
+31
+"Over time, the word \"automobile\ " fell out of favour in <e1>Britain</e1>, and was replaced by \"motor <e2>car\</e2> "."
+
+Other
+------------------------
+
+32
+"Automobile\ " remains chiefly <e1>North American</e1>, particularly as a formal or commercial <e2>term</e2>."
+
+Other
+------------------------
+
+33
+"The word is still very common as an adjective in <e1>American</e1> English, usually in compound formations like \"auto industry\ " and <e2>\"auto mechanic\</e2> "."
+
+Product-Producer(e2,e1)
+------------------------
+
+34
+"In <e1>Dutch</e1> and <e2>German</e2>, two languages historically related to English, the abbreviated form \"auto\ " ( Dutch ) / \"Auto\ " ( German ), as well as the formal full version \"automobiel\ " ( Dutch ) / \"Automobil\ " ( German ) are still used \u2014 in either the short form is the most regular word for \"car\ "."
+
+Product-Producer(e2,e1)
+------------------------
+
+35
+"n\n\n== History = = \n\nThe first working steam - powered vehicle was designed \u2014 and quite possibly built \u2014 by <e1>Ferdinand Verbiest</e1>, a <e2>Flemish</e2> member of a Jesuit mission in China around 1672."
+
+Other
+------------------------
+
+36
+"It was a 65-cm - long scale - model toy for the <e1>Chinese</e1> Emperor that was unable to carry a <e2>driver</e2> or a passenger."
+
+Other
+------------------------
+
+37
+"It is not known with certainty if <e1>Verbiest</e1> 's <e2>model</e2> was successfully built or ran."
+
+Other
+------------------------
+
+38
+"n\nNicolas - <e1>Joseph Cugnot</e1> is widely credited with building the first full - <e2>scale</e2>, self - propelled mechanical vehicle or car in about 1769; he created a steam - powered tricycle."
+
+Other
+------------------------
+
+39
+"He also constructed two steam tractors for <e1>the French Army</e1>, one of which is preserved in <e2>the French National Conservatory of Arts</e2> and Crafts."
+
+Product-Producer(e2,e1)
+------------------------
+
+40
+"His <e1>inventions</e1> were, however, handicapped by <e2>problems</e2> with water supply and maintaining steam pressure."
+
+Other
+------------------------
+
+42
+"It was unable to maintain sufficient <e1>steam pressure</e1> for long <e2>periods</e2>, and was of little practical use."
+
+Other
+------------------------
+
+43
+"nThe <e1>development</e1> of external <e2>combustion</e2> engines is detailed as part of the history of the car, but often treated separately from the development of true cars."
+
+Other
+------------------------
+
+44
+"A <e1>variety</e1> of <e2>steam</e2> - powered road vehicles were used during the first part of the 19th century, including steam cars, steam buses, phaetons, and steam rollers."
+
+Member-Collection(e2,e1)
+------------------------
+
+46
+"Coincidentally, in 1807 the <e1>Swiss</e1> inventor Fran\u00e7ois <e2>Isaac de Rivaz</e2> designed his own ' de Rivaz internal combustion engine ' and used it to develop the world 's first vehicle to be powered by such an engine."
+
+Product-Producer(e2,e1)
+------------------------
+
+48
+"Neither design was very successful, as was the case with others, such as <e1>Samuel Brown</e1>, <e2>Samuel Morey</e2>, and Etienne Lenoir with his hippomobile, who each produced vehicles ( usually adapted carriages or carts ) powered by internal combustion engines."
+
+Component-Whole(e2,e1)
+------------------------
+
+49
+"n\nIn November 1881, <e1>French</e1> inventor <e2>Gustave Trouv\u00e9</e2> demonstrated the first working ( three - wheeled ) car powered by electricity at the International Exposition of Electricity, Paris."
+
+Other
+------------------------
+
+50
+"Although several other <e1>German</e1> engineers ( including <e2>Gottlieb Daimler</e2>, Wilhelm Maybach, and Siegfried Marcus ) were working on the problem at about the same time, Karl Benz generally is acknowledged as the inventor of the modern car."
+
+Product-Producer(e2,e1)
+------------------------
+
+55
+"He was awarded the patent for its invention as of his <e1>application</e1> on 29 January 1886 ( under the <e2>auspices</e2> of his major company, Benz & Cie."
+
+Other
+------------------------
+
+56
+"Benz began promotion of the vehicle on 3 July 1886, and about 25 Benz <e1>vehicles</e1> were sold between 1888 and 1893, when his first four - wheeler was introduced along with a model intended for <e2>affordability</e2>."
+
+Component-Whole(e2,e1)
+------------------------
+
+57
+"They also were powered with four - <e1>stroke</e1> engines of his own <e2>design</e2>."
+
+Product-Producer(e2,e1)
+------------------------
+
+58
+" <e1>Emile Roger</e1> of <e2>France</e2>, already producing Benz engines under license, now added the Benz car to his line of products."
+
+Member-Collection(e2,e1)
+------------------------
+
+60
+"In August 1888 <e1>Bertha Benz</e1>, the wife of <e2>Karl Benz</e2>, undertook the first road trip by car, to prove the road - worthiness of her husband 's invention."
+
+Other
+------------------------
+
+65
+"It was a horse - drawn <e1>stagecoach</e1> built by another <e2>manufacturer</e2>, which they retrofitted with an engine of their design."
+
+Product-Producer(e1,e2)
+------------------------
+
+66
+"By 1895 about 30 vehicles had been built by <e1>Daimler and Maybach</e1>, either at the <e2>Daimler</e2> works or in the Hotel Hermann, where they set up shop after disputes with their backers."
+
+Other
+------------------------
+
+67
+"Benz, <e1>Maybach</e1> and the <e2>Daimler</e2> team seem to have been unaware of each other 's early work."
+
+Instrument-Agency(e1,e2)
+------------------------
+
+68
+"They never worked together; by the time of the merger of the two companies, <e1>Daimler</e1> and <e2>Maybach</e2> were no longer part of DMG."
+
+Component-Whole(e2,e1)
+------------------------
+
+70
+"This was a production of a small <e1>number</e1> of vehicles for Jellinek to race and market in his <e2>country</e2>."
+
+Other
+------------------------
+
+71
+"Two years later, in 1902, a new model DMG car was produced and the model was named <e1>Mercedes</e1> after the <e2>Maybach</e2> engine, which generated 35 hp."
+
+Entity-Origin(e1,e2)
+------------------------
+
+72
+"Maybach quit <e1>DMG</e1> shortly thereafter and opened a <e2>business</e2> of his own."
+
+Other
+------------------------
+
+75
+"when economic conditions began to deteriorate in <e1>Germany</e1> following <e2>the First World War</e2>, but the directors of DMG refused to consider it initially."
+
+Other
+------------------------
+
+81
+"In 1891, <e1>Auguste Doriot</e1> and his <e2>Peugeot</e2> colleague Louis Rigoulot completed the longest trip by a gasoline - powered vehicle when their self - designed and built Daimler powered Peugeot Type 3 completed 2,100 km ( 1,300 miles ) from Valentigney to Paris and Brest and back again."
+
+Other
+------------------------
+
+82
+"They were attached to the first <e1>Paris\u2013Brest\u2013Paris</e1> bicycle race, but finished 6 days after the winning cyclist, <e2>Charles Terront</e2>."
+
+Other
+------------------------
+
+84
+"Selden applied for a patent for a <e1>car</e1> in 1879, but the patent application expired because the <e2>vehicle</e2> was never built."
+
+Instrument-Agency(e1,e2)
+------------------------
+
+90
+"The Studebaker Automobile Company, subsidiary of a long - established <e1>wagon</e1> and <e2>coach manufacturer</e2>, started to build cars in 1897 and commenced sales of electric vehicles in 1902 and gasoline vehicles in 1904."
+
+Product-Producer(e1,e2)
+------------------------
+
+94
+"Lawson in 1896, after purchasing the right to use the <e1>name</e1> of the <e2>engines</e2>."
+
+Component-Whole(e1,e2)
+------------------------
+
+96
+"In 1892, <e1>German</e1> engineer <e2>Rudolf Diesel</e2> was granted a patent for a \"New Rational Combustion Engine\ "."
+
+Product-Producer(e2,e1)
+------------------------
+
+98
+"Although various pistonless rotary engine designs have attempted to compete with the conventional piston and crankshaft design, only <e1>Mazda</e1> 's version of the <e2>Wankel</e2> engine has had more than very limited success."
+
+Component-Whole(e1,e2)
+------------------------
+
+99
+"nAll in all, it is estimated that over 100,000 <e1>patents</e1> created the modern automobile and <e2>motorcycle</e2>."
+
+Product-Producer(e2,e1)
+------------------------
+
+101
+"The <e1>assembly line style</e1> of mass production and interchangeable <e2>parts</e2> had been pioneered in the U."
+
+Component-Whole(e2,e1)
+------------------------
+
+104
+"nAs a result, Ford 's cars came off the line in fifteen - minute intervals, much faster than previous methods, increasing <e1>productivity eightfold</e1>, while using less <e2>manpower</e2> ( from 12."
+
+Other
+------------------------
+
+111
+"The <e1>combination</e1> of high <e2>wages</e2> and high efficiency is called \"Fordism,\ " and was copied by most major industries."
+
+Other
+------------------------
+
+113
+"The assembly line forced workers to work at a certain <e1>pace</e1> with very repetitive <e2>motions</e2> which led to more output per worker while other countries were using less productive methods."
+
+Other
+------------------------
+
+114
+"nIn the automotive industry, its success was dominating, and quickly spread worldwide seeing the founding of <e1>Ford France</e1> and <e2>Ford Britain</e2> in 1911, Ford Denmark 1923, Ford Germany 1925; in 1921, Citroen was the first native European manufacturer to adopt the production method."
+
+Product-Producer(e2,e1)
+------------------------
+
+115
+"Soon, <e1>companies</e1> had to have <e2>assembly</e2> lines, or risk going broke; by 1930, 250 companies which did not, had disappeared."
+
+Other
+------------------------
+
+117
+"Key developments included electric ignition and the electric self - starter ( both by <e1>Charles Kettering</e1>, for <e2>the Cadillac Motor Company</e2> in 1910\u20131911 ), independent suspension, and four - wheel brakes."
+
+Instrument-Agency(e1,e2)
+------------------------
+
+120
+"nReflecting the rapid pace of change, makes shared <e1>parts</e1> with <e2>one</e2> another so larger production volume resulted in lower costs for each price range."
+
+Component-Whole(e2,e1)
+------------------------
+
+121
+"For example, in the 1930s, <e1>LaSalles</e1>, sold by <e2>Cadillac</e2>, used cheaper mechanical parts made by Oldsmobile; in the 1950s, Chevrolet shared hood, doors, roof, and windows with Pontiac; by the 1990s, corporate powertrains and shared platforms ( with interchangeable brakes, suspension, and other parts ) were common."
+
+Product-Producer(e1,e2)
+------------------------
+
+122
+"Even so, only major makers could afford high costs, and even companies with decades of production, such as <e1>Apperson</e1>, <e2>Cole</e2>, Dorris, Haynes, or Premier, could not manage: of some two hundred American car makers in existence in 1920, only 43 survived in 1930, and with the Great Depression, by 1940, only 17 of those were left."
+
+Other
+------------------------
+
+123
+" <e1>Morris</e1> set up its production line at <e2>Cowley</e2> in 1924, and soon outsold Ford, while beginning in 1923 to follow Ford 's practice of vertical integration, buying Hotchkiss ( engines ), Wrigley ( gearboxes ), and Osberton ( radiators ), for instance, as well as competitors, such as Wolseley: in 1925, Morris had 41 % of total British car production."
+
+Component-Whole(e2,e1)
+------------------------
+
+124
+"Most <e1>British</e1> small - car assemblers, from <e2>Abbey</e2> to Xtra, had gone under."
+
+Other
+------------------------
+
+######## ENTITIES DIFF SIDES OF TREE #############
+3
+" <e1>Cars</e1> came into global <e2>use</e2> during the 20th century, and developed economies depend on them."
+
+Other
+------------------------
+
+5
+" <e1>Cars</e1> became widely available in the early 20th <e2>century</e2>."
+
+Message-Topic(e2,e1)
+------------------------
+
+8
+" <e1>nCars</e1> have <e2>controls</e2> for driving, parking, passenger comfort and safety, and controlling a variety of lights."
+
+Component-Whole(e2,e1)
+------------------------
+
+9
+"Over the <e1>decades</e1>, additional <e2>features</e2> and controls have been added to vehicles, making them progressively more complex."
+
+Component-Whole(e2,e1)
+------------------------
+
+10
+" <e1>Examples</e1> include rear <e2>reversing</e2> cameras, air conditioning, navigation systems, and in - car entertainment."
+
+Component-Whole(e2,e1)
+------------------------
+
+12
+"This causes <e1>air pollution</e1> and also contributes to climate <e2>change</e2> and global warming."
+
+Cause-Effect(e1,e2)
+------------------------
+
+16
+"The <e1>costs</e1> include acquiring the <e2>vehicle</e2>, interest payments ( if the car is financed ), repairs and maintenance, fuel, depreciation, driving time, parking fees, taxes, and insurance."
+
+Other
+------------------------
+
+18
+" <e1>Road traffic</e1> accidents are the largest <e2>cause</e2> of injury - related deaths worldwide."
+
+Cause-Effect(e1,e2)
+------------------------
+
+19
+"The <e1>benefits</e1> include on - <e2>demand transportation</e2>, mobility, independence, and convenience."
+
+Other
+------------------------
+
+20
+"The societal <e1>benefits</e1> include economic <e2>benefits</e2>, such as job and wealth creation from the automotive industry, transportation provision, societal well - being from leisure and travel opportunities, and revenue generation from the taxes."
+
+Cause-Effect(e2,e1)
+------------------------
+
+27
+" <e1>Autocar\</e1> " is a <e2>variant</e2> that is also attested from 1895, but that is now considered archaic."
+
+Other
+------------------------
+
+28
+"The term \"horseless <e1>carriage\</e1> " was used by some to refer to the first <e2>cars</e2> at the time that they were being built, and is attested from 1895."
+
+Other
+------------------------
+
+40
+"His <e1>inventions</e1> were, however, handicapped by <e2>problems</e2> with water supply and maintaining steam pressure."
+
+Other
+------------------------
+
+41
+"In 1801, <e1>Richard Trevithick</e1> built and demonstrated his Puffing Devil <e2>road</e2> locomotive, believed by many to be the first demonstration of a steam - powered road vehicle."
+
+Product-Producer(e2,e1)
+------------------------
+
+52
+"Many of his other <e1>inventions</e1> made the <e2>use</e2> of the internal combustion engine feasible for powering a vehicle."
+
+Other
+------------------------
+
+53
+"His first <e1>Motorwagen</e1> was built in 1885 in <e2>Mannheim</e2>, Germany."
+
+Content-Container(e1,e2)
+------------------------
+
+59
+"Because <e1>France</e1> was more open to the early cars, initially more were built and sold in <e2>France</e2> through Roger than Benz sold in Germany."
+
+Product-Producer(e1,e2)
+------------------------
+
+62
+"During the last years of the nineteenth century, <e1>Benz</e1> was the largest car company in the world with 572 units produced in 1899 and, because of its size, <e2>Benz & Cie</e2>."
+
+Other
+------------------------
+
+63
+"The first motor car in central <e1>Europe</e1> and one of the first factory - made cars in the world, was produced by <e2>Czech</e2> company Nesselsdorfer Wagenbau ( later renamed to Tatra ) in 1897, the Pr\u00e4sident automobil."
+
+Product-Producer(e1,e2)
+------------------------
+
+64
+" <e1>nDaimler</e1> and <e2>Maybach</e2> founded Daimler Motoren Gesellschaft ( DMG ) in Cannstatt in 1890, and sold their first car in 1892 under the brand name Daimler."
+
+Other
+------------------------
+
+69
+" <e1>Daimler</e1> died in 1900 and later that year, <e2>Maybach</e2> designed an engine named Daimler - Mercedes that was placed in a specially ordered model built to specifications set by Emil Jellinek."
+
+Entity-Origin(e1,e2)
+------------------------
+
+73
+"Rights to the Daimler <e1>brand name</e1> were sold to other <e2>manufacturers</e2>."
+
+Entity-Destination(e1,e2)
+------------------------
+
+74
+" <e1>nKarl Benz</e1> proposed co - operation between DMG and <e2>Benz & Cie</e2>."
+
+Other
+------------------------
+
+76
+"Negotiations between the two <e1>companies</e1> resumed several <e2>years</e2> later when these conditions worsened and, in 1924 they signed an Agreement of Mutual Interest, valid until the year 2000."
+
+Product-Producer(e2,e1)
+------------------------
+
+77
+"Both <e1>enterprises</e1> standardized design, production, <e2>purchasing</e2>, and sales and they advertised or marketed their car models jointly, although keeping their respective brands."
+
+Product-Producer(e2,e1)
+------------------------
+
+79
+" <e1>Karl Benz</e1> remained a member of the board of directors of <e2>Daimler - Benz</e2> until his death in 1929, and at times his two sons also participated in the management of the company."
+
+Member-Collection(e1,e2)
+------------------------
+
+83
+"nThe first design for an <e1>American</e1> car with a gasoline internal combustion engine was made in 1877 by <e2>George Selden</e2> of Rochester, New York."
+
+Other
+------------------------
+
+85
+"After a delay of sixteen years and a series of attachments to his application, on 5 November 1895, <e1>Selden</e1> was granted a <e2>United States</e2> patent ( U."
+
+Other
+------------------------
+
+87
+"His <e1>patent</e1> was challenged by Henry Ford and <e2>others</e2>, and overturned in 1911."
+
+Product-Producer(e1,e2)
+------------------------
+
+88
+"nIn 1893, the first running, gasoline - powered <e1>American</e1> car was built and road - tested by the <e2>Duryea</e2> brothers of Springfield, Massachusetts."
+
+Other
+------------------------
+
+89
+"The first public run of <e1>the Duryea Motor Wagon</e1> took place on 21 September 1893, on <e2>Taylor Street</e2> in Metro Center Springfield."
+
+Other
+------------------------
+
+91
+"In <e1>Britain</e1>, there had been several attempts to build steam cars with varying degrees of success, with <e2>Thomas Rickett</e2> even attempting a production run in 1860."
+
+Other
+------------------------
+
+92
+"Santler from <e1>Malvern</e1> is recognized by <e2>the Veteran Car Club of Great Britain</e2> as having made the first gasoline - powered car in the country in 1894, followed by Frederick William Lanchester in 1895, but these were both one - offs."
+
+Product-Producer(e1,e2)
+------------------------
+
+93
+"The first production vehicles in <e1>Great Britain</e1> came from <e2>the Daimler Company</e2>, a company founded by Harry J."
+
+Cause-Effect(e2,e1)
+------------------------
+
+95
+" <e1>Lawson</e1> 's company made its first car in 1897, and they bore the name <e2>Daimler</e2>."
+
+Product-Producer(e2,e1)
+------------------------
+
+97
+"Steam-, <e1>electric-</e1>, and <e2>gasoline</e2> - powered vehicles competed for decades, with gasoline internal combustion engines achieving dominance in the 1910s."
+
+Component-Whole(e2,e1)
+------------------------
+
+102
+"by <e1>Thomas Blanchard</e1> in 1821, at <e2>the Springfield Armory</e2> in Springfield, Massachusetts."
+
+Instrument-Agency(e2,e1)
+------------------------
+
+103
+"This concept was greatly expanded by <e1>Henry Ford</e1>, beginning in 1913 with the world 's first moving assembly line for cars at the <e2>Highland Park Ford Plant</e2>."
+
+Product-Producer(e2,e1)
+------------------------
+
+106
+"It was so successful, <e1>paint</e1> became a <e2>bottleneck</e2>."
+
+Other
+------------------------
+
+107
+"Only <e1>Japan</e1> black would dry fast enough, forcing the company to drop the variety of colors available before 1913, until fast - drying <e2>Duco</e2> lacquer was developed in 1926."
+
+Instrument-Agency(e2,e1)
+------------------------
+
+108
+"This is the <e1>source</e1> of Ford 's apocryphal remark, <e2>\"any color</e2> as long as it 's black\ "."
+
+Other
+------------------------
+
+109
+"In 1914, an <e1>assembly line worker</e1> could buy a Model T with four months ' <e2>pay</e2>."
+
+Other
+------------------------
+
+112
+"The efficiency gains from the <e1>assembly line</e1> also coincided with the economic <e2>rise</e2> of the United States."
+
+Other
+------------------------
+
+116
+"Development of automotive <e1>technology</e1> was rapid, due in part to the hundreds of small manufacturers competing to gain the <e2>world</e2> 's attention."
+
+Other
+------------------------
+
+118
+"nSince the 1920s, nearly all <e1>cars</e1> have been mass - produced to meet market needs, so <e2>marketing</e2> plans often have heavily influenced car design."
+
+Product-Producer(e2,e1)
+------------------------
+
+119
+"Sloan who established the idea of different <e1>makes</e1> of cars produced by one company, called the General Motors Companion Make Program, so that buyers could \"move up\ " as their <e2>fortunes</e2> improved."
+
+Product-Producer(e2,e1)
+------------------------
+
+125
+" <e1>Citroen</e1> did the same in <e2>France</e2>, coming to cars in 1919; between them and other cheap cars in reply such as Renault 's 10CV and Peugeot 's 5CV, they produced 550,000 cars in 1925, and Mors, Hurtu, and others could not compete."
+
+Other
+------------------------
+
